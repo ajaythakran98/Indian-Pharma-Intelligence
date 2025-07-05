@@ -54,7 +54,6 @@ Raw datasets were collected from:
 This is the original Tableau file used to create the dashboard screenshot.
 
 ### 📁 Visuals
-- [Banner.png](./Banner.png)
 - [Dashboard.png](./Dashboard.png)
 - [Download Tableau Dashboard (.twbx)](./Pharma_Dashboard_Tableau.twbx)
 
