@@ -104,6 +104,7 @@ Data Analyst skilled in Excel, SQL, Power BI, Tableau, and Python
 📧 ajaythakran.analyst@gmail.com  
 🔗 [LinkedIn](https://shorturl.at/aCbXe)
 
+
 ---
 
 _This project showcases my ability to clean, analyze, and visualize real-world data, and to extract business insights using structured analytics._
