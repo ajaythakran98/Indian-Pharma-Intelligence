@@ -32,7 +32,7 @@ Raw datasets were collected from:
 ## Key Files & Project Structure
 
 ### 📄 [README.md](./README.md)
-📁 Data/
+📁 Data
 
    ├── A_Z_medicines_of_India_RAWDATASET.csv
    
@@ -42,7 +42,7 @@ Raw datasets were collected from:
    
    └── Drug_Category_Sales_cleaned.sql
 
-📁 Visuals/
+📁 Visuals
 
    ├── Dashboard.png
    
