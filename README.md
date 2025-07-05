@@ -1,9 +1,10 @@
 <p align="center">
   <img src="Banner.png" alt="Indian Pharma Intelligence Banner" />
 </p>
+
 # Pharma Market Analytics – India
 
-This project presents a detailed analysis of Indian pharmaceutical sales and drug pricing data. The goal is to identify top-performing products, explore pricing patterns, and uncover market-level insights using Excel, SQL, and visualization tools.
+This project presents a detailed analysis of Indian pharmaceutical sales and drug pricing data. The goal is to identify top-performing products, explore pricing patterns, and uncover market-level insights using  SQL, and visualization tools.
 
 ---
 
@@ -32,24 +33,6 @@ Raw datasets were collected from:
 ## Key Files & Project Structure
 
 ### 📄 [README.md](./README.md)
-📁 Data
-
-   ├── A_Z_medicines_of_India_RAWDATASET.csv
-   
-   ├── A-Z Medicine Dataset cleaned.sql
-   
-   ├── Drug_Category_Sales_RAWDATASET.csv
-   
-   └── Drug_Category_Sales_cleaned.sql
-
-📁 Visuals
-
-   ├── Dashboard.png
-   
-   ├── Pharma Dashboard.twbx
-
-📄 Final Report: Indian_Pharma_Case_Study_Report.pdf
-
 
 ### 📁 Data Files
 - [A_Z_medicines_of_India_RAWDATASET.csv](./A_Z_medicines_of_India_RAWDATASET.csv)
@@ -57,11 +40,9 @@ Raw datasets were collected from:
 - [Drug_Category_Sales_RAWDATASET.csv](./Drug_Category_Sales_RAWDATASET.csv)
 - [Drug_Category_Sales_cleaned.csv](./Drug_Category_Sales_cleaned.csv)
 
-This is the original Tableau file used to create the dashboard screenshot.
-
 ### 📁 Visuals
+- [Banner.png](./Banner.png)
 - [Dashboard.png](./Dashboard.png)
-- [Download Tableau Dashboard (.twbx)](./Pharma_Dashboard_Tableau.twbx)
 
 ### 📄 [Final Project.pdf](./Final%20Project.pdf)
 
@@ -89,10 +70,8 @@ This is the original Tableau file used to create the dashboard screenshot.
 
 ## How to Explore This Project
 
-- Click on `.csv` files to view raw data
-- Click on `.sql` files to view clean data
+- Click on `.csv` files to view data
 - Open `Dashboard.png` for key visuals
-- Open `Pharma Dashboard` for detail chart analysis
 - Read `Final Project.pdf` for a full case study summary
 
 ---
@@ -104,7 +83,6 @@ Data Analyst skilled in Excel, SQL, Power BI, Tableau, and Python
 📍 Gurugram, India  
 📧 ajaythakran.analyst@gmail.com  
 🔗 [LinkedIn](https://shorturl.at/aCbXe)
-
 
 ---
 
