@@ -36,9 +36,12 @@ Raw datasets were collected from:
 - [Drug_Category_Sales_RAWDATASET.csv](./Drug_Category_Sales_RAWDATASET.csv)
 - [Drug_Category_Sales_cleaned.csv](./Drug_Category_Sales_cleaned.csv)
 
+This is the original Tableau file used to create the dashboard screenshot.
+
 ### 📁 Visuals
 - [Banner.png](./Banner.png)
 - [Dashboard.png](./Dashboard.png)
+- [Download Tableau Dashboard (.twbx)](./Pharma_Dashboard_Tableau.twbx)
 
 ### 📄 [Final Project.pdf](./Final%20Project.pdf)
 
@@ -68,6 +71,7 @@ Raw datasets were collected from:
 
 - Click on `.csv` files to view data
 - Open `Dashboard.png` for key visuals
+- Open `Pharma Dashboard` for detail chart analysis
 - Read `Final Project.pdf` for a full case study summary
 
 ---
