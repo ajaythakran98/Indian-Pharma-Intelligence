@@ -89,7 +89,8 @@ This is the original Tableau file used to create the dashboard screenshot.
 
 ## How to Explore This Project
 
-- Click on `.csv` files to view data
+- Click on `.csv` files to view raw data
+- Click on `.sql` files to view clean data
 - Open `Dashboard.png` for key visuals
 - Open `Pharma Dashboard` for detail chart analysis
 - Read `Final Project.pdf` for a full case study summary
