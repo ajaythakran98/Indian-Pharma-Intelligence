@@ -33,6 +33,7 @@ Raw datasets were collected from:
 
 ### 📄 [README.md](./README.md)
 📁 Data/
+
    ├── A_Z_medicines_of_India_RAWDATASET.csv
    
    ├── A-Z Medicine Dataset cleaned.sql
@@ -42,6 +43,7 @@ Raw datasets were collected from:
    └── Drug_Category_Sales_cleaned.sql
 
 📁 Visuals/
+
    ├── Dashboard.png
    
    ├── Pharma Dashboard.twbx
