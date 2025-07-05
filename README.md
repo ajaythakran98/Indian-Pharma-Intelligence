@@ -32,6 +32,18 @@ Raw datasets were collected from:
 ## Key Files & Project Structure
 
 ### 📄 [README.md](./README.md)
+📁 Data/
+   ├── A_Z_medicines_of_India_RAWDATASET.csv
+   ├── A-Z Medicine Dataset cleaned.sql
+   ├── Drug_Category_Sales_RAWDATASET.csv
+   └── Drug_Category_Sales_cleaned.sql
+
+📁 Visuals/
+   ├── Dashboard.png
+   ├── Pharma Dashboard.twbx
+
+📄 Final Report: Indian_Pharma_Case_Study_Report.pdf
+
 
 ### 📁 Data Files
 - [A_Z_medicines_of_India_RAWDATASET.csv](./A_Z_medicines_of_India_RAWDATASET.csv)
