@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Banner.png" alt="Indian Pharma Intelligence Banner" />
+</p>
 # Pharma Market Analytics – India
 
 This project presents a detailed analysis of Indian pharmaceutical sales and drug pricing data. The goal is to identify top-performing products, explore pricing patterns, and uncover market-level insights using Excel, SQL, and visualization tools.
