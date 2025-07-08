@@ -44,7 +44,7 @@ Raw datasets were collected from:
 - [Banner.png](./Banner.png)
 - [Dashboard.png](./Dashboard.png)
 
-### 📄 [Final Presentation.pptx](./Final%20Project.pdf)
+### 📄 [Final Presentation.pptx](./Final%20Presentation.pptx)
 
 ---
 
