@@ -44,7 +44,7 @@ Raw datasets were collected from:
 - [Banner.png](./Banner.png)
 - [Dashboard.png](./Dashboard.png)
 
-### 📄 [Final Project.pdf](./Final%20Project.pdf)
+### 📄 [Final Presentation.pptx](./Final%20Project.pdf)
 
 ---
 
@@ -72,7 +72,7 @@ Raw datasets were collected from:
 
 - Click on `.csv` files to view data
 - Open `Dashboard.png` for key visuals
-- Read `Final Project.pdf` for a full case study summary
+- Read `Final Presentation.pptx` for a full case study summary
 
 ---
 
@@ -86,4 +86,4 @@ Data Analyst skilled in Excel, SQL, Power BI, Tableau, and Python
 
 ---
 
-_This project showcases my ability to clean, analyze, and visualize real-world data, and to extract business insights using structured analytics._
+_I created this project to demonstrate how analytics can turn raw data into real business value — regardless of industry. It also serves as a hands-on learning resource for others looking to sharpen their SQL, Excel, and data storytelling skills_
